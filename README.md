@@ -1,5 +1,7 @@
 # R2-D2 - A Robotics Journey
-The repository contains the files to build a smaller-scale replica of the R2-D2 droid from the Star Wars universe. The robot can move around and rotate its head, just like in the movies. It is controlled with a simple PS controller. This robotics project was created entirely by me for Hack Club's Highway to Undercity event.
+The repository contains the files to build a smaller-scale replica of the R2-D2 droid from the Star Wars universe. The robot can move around and rotate its head, just like in the movies. It is controlled with a PS3 controller. This robotics project was created entirely by me for Hack Club's Highway to Undercity event.
+
+![FrontView](https://github.com/user-attachments/assets/d2635e25-edf3-48ef-bb5e-4dde339aea2e)
 
 ## Bill of Materials
 View the Bill of Materials [here](https://docs.google.com/spreadsheets/d/11K8ikvZwUrrph38blHlkMEm7u3jJ6bzhOUvdLzmd2ws/edit?usp=sharing)
@@ -20,6 +22,9 @@ In the movies, R2 has a wide range of abilities such as movement, flight, tasers
 ## Designing the Robot
 Click [here](https://cad.onshape.com/documents/fbad7fda3dbb0b1c2d9d3e12/w/7637877b99adba1fcadbcc49/e/54e6ed0ce40017a6b8cdbd53?renderMode=0&uiState=683df9a55faa163533b4a26a) to view the Onshape document for this project. 
 The electronic design was done in KiCAD. 
+
+![CAD](https://github.com/user-attachments/assets/651a82ae-2b5c-4b16-a0b7-7637af21a6b9)
+![Wiring](https://github.com/user-attachments/assets/31a58c11-a1ca-4079-acc8-2c377f85e308)
 
 ## General Steps for Assembly
 1. Print all parts in the STLs folder of this repo. **IMPORTANT NOTE** Print out the BodyButtonFill.stl file six times and print Foot.stl and FootCover.stl three times.
