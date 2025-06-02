@@ -17,7 +17,8 @@ In the movies, R2 has a wide range of abilities such as movement, flight, tasers
 **STLs** - Contains files for each part that needs to be 3D printed
 **Electrical** - Contains files from KiCAD for the robot's wiring schematics and custom symbols
 **Code** - Currently empty but will eventually contain the code for controlling the robot with a PS3 controller.
-**Journal.md** - Contains an overview of exactly how I designed and built this robot
+**JOURNAL.md** - Contains an overview of exactly how I designed and built this robot
+**BOM.csv** - A bill of materials for the project in CSV format
 
 ## Designing the Robot
 Click [here](https://cad.onshape.com/documents/fbad7fda3dbb0b1c2d9d3e12/w/7637877b99adba1fcadbcc49/e/54e6ed0ce40017a6b8cdbd53?renderMode=0&uiState=683df9a55faa163533b4a26a) to view the Onshape document for this project. 
