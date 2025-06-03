@@ -67,14 +67,13 @@ Now that the CAD has been mostly completed, I decided to begin working on the el
 
 
 ### DAY EIGHT - June 1, 2025
-Added CAD electrical board  
-Added wire holes
+Today, I added the final pieces to the OnShape document. I decided to add a polycarbonate sheet to the inside of the robot in order to mount all of the electronics, too. Using the CAD model, I found that the sheet's dimensions should be 5.8" x 6.3". I added this panel to the CAD and then added holes so that wires can be funneled from the body to the feet. Finally, I made sure to add proper clearance to all parts so that they would fit together correctly after 3D printing.
 
 <img src="https://github.com/user-attachments/assets/ebb4baa4-6b89-4a88-8bd8-ea584fdb5c10" alt="Day Eight Back" height="300"/>
 
 **Time Spent:** 2 hours
 
 ### DAY NINE - June 2, 2025
-Shipping
+Now that the initial design for the droid is done, I finally compiled all of my files into this GitHub repo. I created a folder for CAD files, a folder for electrical schematics, a folder for 3D print files, and an empty folder for code. I then began updating the README.md file to have all the information about this project.
 
 **Time Spent:** 4 hours
