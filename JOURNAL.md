@@ -27,4 +27,6 @@ Added clearance
 
 ### JOURNAL DAY FOUR - May 28, 2025
 
-**Time Spent:** 
+**Time Spent:** 3 hours session 1 | Session 2: 9:18 -
+
+**WIP**
