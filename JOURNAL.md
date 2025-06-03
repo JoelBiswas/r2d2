@@ -5,7 +5,7 @@ description: "3D Printable R2D2 droid controlled with a PS3 controller"
 created_at: "2025-05-25"
 ---
 
-**Total Time Spent:** 20 hours
+**Total Time Spent:** 47 hours
 
 **NOTE - As I was designing the robot, I was not very consistent with journaling. Thus, many of these entries are being written retroactively after the design has already been completed. Luckily, Onshape has a very good built-in version control system, meaning it is very easy for me to see what I did each day and how long I spent working.**
 
@@ -18,15 +18,47 @@ Today I began designing the R2D2's dome-shaped head on OnShape. The goal is for 
 ![Screenshot from 2025-05-25 17-32-15](https://github.com/user-attachments/assets/1c360bbb-9dc7-4a4e-9855-0f8cb7b601e3)
 
 ### JOURNAL DAY TWO - May 26, 2025
+Finished head
+Began body
 
 **Time Spent:** 8 hours (over three sessions)
 
 ### JOURNAL DAY THREE - May 27, 2025
-Added clearance
+More work on body and Added clearance
+
 **Time Spent:** 3 hours (one session)
 
-### JOURNAL DAY FOUR - May 28, 2025
+### JOURNAL DAY FOUR - May 28, 2025 |||||||
+Created legs
+Created head rotation mechanism
+Parts List
+Added covers |||
 
-**Time Spent:** 3 hours session 1 | Session 2: 9:18 -
+**Time Spent:** 8 hours (over two sessions)
 
-**WIP**
+### JOURNAL DAY FIVE - May 29, 2025
+Designed foot
+Designed body bottom
+Remade dome
+
+**Time Spent:** 10 hours (over two sessions)
+
+### JOURNAL DAY SIX - May 30, 2025
+Created right leg
+
+**Time Spent:** 2 hours (over two sessions)
+
+### JOURNAL DAY SEVEN - May 31, 2025
+Made electrical schematic
+**Time Spent:** 3 hours
+
+### JOURNAL DAY EIGHT - June 1, 2025
+Added CAD electrical board
+Added wire holes
+
+**Time Spent:** 2 hours
+
+### JOURNAL DAY NINE - June 2, 2025
+Shipping
+
+**Time Spent:** 4 hours
