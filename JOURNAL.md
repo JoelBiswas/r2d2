@@ -5,7 +5,7 @@ description: "3D Printable R2D2 droid controlled with a PS3 controller"
 created_at: "2025-05-25"
 ---
 
-**Total Time Spent:** 47 hours
+**Total Time Spent:** 67 hours
 
 **NOTE - As I was designing the robot, I was not very consistent with journaling. Thus, many of these entries are being written retroactively after the design has already been completed. Luckily, Onshape has a very good built-in version control system, meaning it is very easy for me to see what I did each day and how long I spent working.**
 
