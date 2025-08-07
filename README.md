@@ -1,6 +1,8 @@
 # R2-D2 - A Robotics Journey
 The repository contains the files to build a smaller-scale replica of the R2-D2 droid from the Star Wars universe. The robot can move around and rotate its head, just like in the movies. It is controlled with a PS3 controller. This robotics project was created entirely by me for Hack Club's Highway to Undercity event.
 
+![IMG_9884 2](https://github.com/user-attachments/assets/d81d2307-1279-4c8e-9341-65435ef9c383)
+
 ![FrontView](https://github.com/user-attachments/assets/d2635e25-edf3-48ef-bb5e-4dde339aea2e)
 
 ## Bill of Materials
