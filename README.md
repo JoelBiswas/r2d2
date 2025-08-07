@@ -13,12 +13,13 @@ As a **HUGE** Star Wars fan and a robotics enthusiast, I have always thought it 
 In the movies, R2 has a wide range of abilities such as movement, flight, tasers, a holographic projector, etc. For this project, I decided to focus on two key points of functionality for the droid: movement and head rotation. The robot has three "feet" -- one on the left, one on the right, and one in the center -- each containing a Pololu 12V Motor attached to a wheel. A PS3 controller is used to control the motors and move the droid. A stepper motor is used to control the rotation of R2-D2's head. An ESP32 is used in order to control all of the motor drivers.
 
 ## Overview of this Repo
-**CAD** - Contains the CAD files for the robot, along with images taken in Onshape
-**STLs** - Contains files for each part that needs to be 3D printed
-**Electrical** - Contains files from KiCAD for the robot's wiring schematics and custom symbols
-**Code** - Currently empty but will eventually contain the code for controlling the robot with a PS3 controller.
-**JOURNAL.md** - Contains an overview of exactly how I designed and built this robot
-**BOM.csv** - A bill of materials for the project in CSV format
+**CAD** - Contains the CAD files for the robot, along with images taken in Onshape <br>
+**STLs** - Contains files for each part that needs to be 3D printed <br>
+**Print** - Contains the 3d print files for the Flashforge Adventurer 5M <br>
+**Electrical** - Contains files from KiCAD for the robot's wiring schematics and custom symbols <br>
+**Code** - Currently empty but will eventually contain the code for controlling the robot with a PS3 controller. <br>
+**JOURNAL.md** - Contains an overview of exactly how I designed and built this robot <br>
+**BOM.csv** - A bill of materials for the project in CSV format <br>
 
 ## Designing the Robot
 Click [here](https://cad.onshape.com/documents/fbad7fda3dbb0b1c2d9d3e12/w/7637877b99adba1fcadbcc49/e/54e6ed0ce40017a6b8cdbd53?renderMode=0&uiState=683df9a55faa163533b4a26a) to view the Onshape document for this project. 

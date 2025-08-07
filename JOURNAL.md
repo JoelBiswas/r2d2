@@ -77,3 +77,12 @@ Today, I added the final pieces to the OnShape document. I decided to add a poly
 Now that the initial design for the droid is done, I finally compiled all of my files into this GitHub repo. I created a folder for CAD files, a folder for electrical schematics, a folder for 3D print files, and an empty folder for code. I then began updating the README.md file to have all the information about this project.
 
 **Time Spent:** 4 hours
+
+### DAY TEN - July 31, 2025
+**Time Spent:** 5 hours
+I took a long break from this project while I waited for parts to arrive. During this time, I primarily worked on other projects. The five hours were spent slicing print files and making small adjustments to the CAD, in order to prepare for printing. As of today, I have officially received all my orders and have 3D printed all of the parts.
+
+### Day ELEVEN - August 6, 2025
+**Time Spent** 15 hours
+I spent about a week assembling the robot and writing firmware. The assembly proved challenging due to this being the first multiple part project that I have worked on. Additionally, I had ordered M3 threaded inserts, despite using M4 bolts, leading to even more complications. The firmware used the left joystick to control the left wheel of the robot afn the right joystick to contrl the right wheel of the robot. The middle wheel's speed is set to the average of the other two wheels.
+![IMG_9884 2](https://github.com/user-attachments/assets/e0159b1a-9baf-43f6-abca-ba64a7cc20bc)
